@@ -60,6 +60,15 @@ List<ProjectUtils> projectUtils = [
         'https://play.google.com/store/apps/details?id=com.znop.kidapuzzle01',
   ),
   ProjectUtils(
+    banners: 'assets/imgs/creatrix.png',
+    icons: 'assets/icons/creatrix_icon.png',
+    titles: 'Campus on the Go',
+    description: 'Faculty, Student & Managemnt can breathe a sigh of relief now because Creatrix Campus is on the go with them.'
+        'Creatrix Campus App helps save time and efforts! Like we always say, focus on what goes '
+        'on inside the classroom, let''s take care of making outside the classroom effortless! ',
+    links: 'https://www.creatrixcampus.com/why-creatrix',
+  ),
+  ProjectUtils(
     banners: 'assets/imgs/astrazenica.png',
     icons: 'assets/icons/astrazenica_icon.png',
     titles: 'B2C Astrazenica - The heart app',
